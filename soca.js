@@ -1,4 +1,4 @@
-<h1>Diomaiale</h1>
+function soca(){
 alert('diocane');
 alert('dioboia');
 window.alert('diostrunz');
@@ -13,3 +13,4 @@ function culo(){
     alert('dioboia hai cacato ' + stronzi + ' stronzi');
 }
 culo(stronzi);
+}
